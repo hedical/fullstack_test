@@ -61,7 +61,7 @@ app.listen(PORT, () => console.log(`We are listening to http://localhost:${PORT}
 
 ### Folder organization
 
-![Intro%20to%20Node%20Servers%20b828a8e330dc41a39358acb95077f4c7/Untitled.png](Intro%20to%20Node%20Servers%20b828a8e330dc41a39358acb95077f4c7/Untitled.png)
+![Intro%20to%20Node%20Servers%20b828a8e330dc41a39358acb95077f4c7/Untitled.png](README/Intro%20to%20Node%20Servers%20b828a8e330dc41a39358acb95077f4c7/Untitled.png)
 
 - It is good to separate the client and data routes, by creating  a route folder, with client-route.js
 - It is also good to have all your client files (viewable by the user), like HTML files, in the same client
